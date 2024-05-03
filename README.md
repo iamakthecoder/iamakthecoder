@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apoorv Kumar</h1>
 <h3 align="center">Pre-final Year UG @CSE, IITKGP'25</h3>
 
+<br>
 I am a third-year undergraduate student in the Department of Computer Science and Engineering at the Indian Institute of Technology, Kharagpur.
 
 - 📫 How to reach me: **apoorv.kr1@gmail.com**
