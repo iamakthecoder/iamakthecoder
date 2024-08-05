@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apoorv Kumar</h1>
-<h3 align="center">Pre-final Year UG @CSE, IITKGP'25</h3>
+<h3 align="center">Final Year UG @CSE, IITKGP'25</h3>
 <br>
 
 <p>
