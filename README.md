@@ -3,7 +3,7 @@
 <br>
 
 <p>
-    I am a third-year undergraduate student in the Department of Computer Science and Engineering at the Indian Institute of Technology, Kharagpur.
+    I am a fourth-year undergraduate student in the Department of Computer Science and Engineering at the Indian Institute of Technology, Kharagpur.
 </p>
 
 
